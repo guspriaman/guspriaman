@@ -1,43 +1,48 @@
 # Guspriaman Warasi
 
-**Full Stack & Server Security Engineer** building secure, scalable, and production-ready web applications from interface to infrastructure.
+**Full Stack & Server Security Engineer**
 
-I design, build, deploy, secure, and maintain web products end to end. My work covers responsive frontend development, backend services, APIs, payment integration, relational databases, automated delivery, Linux server operations, monitoring, performance optimization, and production hardening.
+I build and operate production-ready web platforms end to end, from responsive interfaces and application architecture to databases, deployment, Linux operations, monitoring, performance optimization, incident response, and security hardening.
 
-## What I work on
+## Professional focus
 
 - Full-stack web applications and digital products
 - Publishing platforms and e-commerce systems
-- API, payment gateway, and database integration
-- Linux server deployment, monitoring, and reliability
+- API, payment gateway, and relational database integration
+- Linux server deployment, monitoring, performance, and reliability
 - WordPress security hardening and incident response
-- Performance optimization and production operations
+- Maintainable systems designed for real production use
 
 ## Core stack
 
 | Area | Technologies |
 | --- | --- |
 | Frontend | Next.js, React, TypeScript, JavaScript, Tailwind CSS, Sass |
-| Backend | Node.js, NestJS, Express.js, WordPress, REST APIs |
-| Data | MySQL, PostgreSQL, NoSQL |
+| Backend | Node.js, NestJS, Express.js, WordPress, REST APIs, WPGraphQL |
+| Data | MySQL, PostgreSQL, Prisma ORM, NoSQL |
 | Infrastructure | Ubuntu, Nginx, Docker, PM2, PHP-FPM, Cloudflare |
 | Delivery | Git, GitHub Actions, CI/CD |
 | Security | AIDE, UFW, Fail2ban, auditd, WP-CLI, IOC monitoring |
+
+## Professional work
+
+- **DestinAsian.com** — Full-stack development and maintenance for an international luxury travel publishing platform, including Next.js, headless WordPress, deployment, technical SEO, and Linux server operations.
+- **DAMAN** — Frontend and WordPress integration, production deployment, server operations, security hardening, malware response, checksum verification, and IOC monitoring.
+- **DestinAsian Indonesia** — Development and maintenance of an Indonesian-language travel and lifestyle publishing platform, including editorial workflows, WPGraphQL integration, technical SEO, and production operations.
+
+## Featured projects
+
+- **[Brewtica — Café Ordering & POS](https://brewtica.guspriaman.com/)** — A full-stack café ordering and POS platform connecting customer ordering, product management, checkout, and daily operations.
+- **[Fresh Juice — E-Commerce & Ordering](https://fresh-juice.guspriaman.com/)** — A full-stack food and beverage commerce platform connecting product discovery, cart, checkout, customer orders, and backend management.
 
 ## Production security practice
 
 My security work is grounded in real production operations: firewall and access-control hardening, file-integrity monitoring, intrusion prevention, audit logging, WordPress checksum verification, malware quarantine, Nginx and PHP-FPM hardening, and IOC-based incident response.
 
-## Selected work
-
-- **DestinAsian Media Group** — Full-stack delivery, API integration, performance optimization, deployment, Linux server operations, and security hardening.
-- **DA MAN** — Application maintenance and WordPress incident response, including malware quarantine, checksum verification, hardening, and IOC monitoring.
-- **GuspriStack** — Digital products, source code, and production-ready website solutions.
-
 ## Connect
 
 - Portfolio: [guspriaman.com/profil](https://guspriaman.com/profil)
-- Website: [guspriaman.com](https://guspriaman.com)
+- Website: [guspriaman.com](https://guspriaman.com/)
 - LinkedIn: [linkedin.com/in/guspriaman-warasi](https://www.linkedin.com/in/guspriaman-warasi/)
 
 Open to selected projects involving full-stack development, server infrastructure, performance, and practical application security.
